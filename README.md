@@ -1,5 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/LeonardoBaptista-dev/LeonardoBaptista-dev/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+
 
 <p align="center">Desde o início da minha trajetória, dediquei meu foco ao aprimoramento em Python, concentrando esforços em frameworks como Django, Flask, FastAPI e Selenium. Além disso, possuo projetos em ciência de dados, onde utilizo o Jupyter como IDE e as bibliotecas Pandas, Numpy, Matplotlib e Seaborn.
 
@@ -7,7 +6,7 @@ Atualmente, sou estudante do Curso Superior de Tecnologia em Análise e Desenvol
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LeonardoBaptista-dev&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-LeonardoBaptista-dev.vercel.app/api/top-langs/?username=LeonardoBaptista-dev&show_icons=true&theme=radical&layout=compact" />
+
  </div>
  
  &nbsp;
