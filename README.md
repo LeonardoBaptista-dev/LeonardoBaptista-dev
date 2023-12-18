@@ -1,6 +1,6 @@
 
-
-<p align="center">Desde o início da minha trajetória, dediquei meu foco ao aprimoramento em Python, concentrando esforços em frameworks como Django, Flask, FastAPI e Selenium. Além disso, possuo projetos em ciência de dados, onde utilizo o Jupyter como IDE e as bibliotecas Pandas, Numpy, Matplotlib e Seaborn.
+<p>Olá, eu sou Leonardo.</p>
+<p >Sou desenvolvedor web junior. Tenho projetos frontend, usando HTML, Css, Bootstrap, contudo, desde o início da minha trajetória, dediquei meu foco ao aprimoramento em Python, concentrando esforços em frameworks como Django, Flask, FastAPI e Selenium. Além disso, possuo projetos em ciência de dados, onde utilizo o Jupyter como IDE e as bibliotecas Pandas, Numpy, Matplotlib e Seaborn.
 
 Atualmente, sou estudante do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas do IFPR</p>&nbsp;
 
