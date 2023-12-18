@@ -1,8 +1,9 @@
 
-<p>Olá, eu sou Leonardo.</p>
-<p >Sou desenvolvedor web junior. Tenho projetos frontend, usando HTML, Css, Bootstrap, contudo, desde o início da minha trajetória, dediquei meu foco ao aprimoramento em Python, concentrando esforços em frameworks como Django, Flask, FastAPI e Selenium. Além disso, possuo projetos em ciência de dados, onde utilizo o Jupyter como IDE e as bibliotecas Pandas, Numpy, Matplotlib e Seaborn.
-
-Atualmente, sou estudante do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas do IFPR</p>&nbsp;
+<p>Olá, eu sou Leonardo.<br>
+Desenvolvedor Python Junior</p>
+Em meu portifólio tenho projetos variados do frontend ao backend, utilizo tecnologias como HTML, Css, Bootstrap, JavaScript, porém, desde o início da minha trajetória, dediquei meu foco ao aprimoramento em Python, concentrando esforços em frameworks como Django, Flask, FastAPI e Selenium. Além disso, possuo alguns projetos em ciência de dados, onde utilizo o Jupyter como IDE e as bibliotecas Pandas, Numpy, Matplotlib e Seaborn.
+<br><br>
+Atualmente, sou estudante do curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas do IFPR</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LeonardoBaptista-dev&theme=radical&mode=weekly" />
