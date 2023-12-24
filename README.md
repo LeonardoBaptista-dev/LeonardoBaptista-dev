@@ -1,10 +1,14 @@
-
-<p>Olá, eu sou Leonardo.<br>
-Desenvolvedor Python Junior</p>
-Em meu portifólio tenho projetos variados do frontend ao backend, utilizo tecnologias como HTML, Css, Bootstrap, JavaScript, porém, desde o início da minha trajetória, dediquei meu foco ao aprimoramento em Python, concentrando esforços em frameworks como Django, Flask, FastAPI e Selenium. Além disso, possuo alguns projetos em ciência de dados, onde utilizo o Jupyter como IDE e as bibliotecas Pandas, Numpy, Matplotlib e Seaborn.
+<h1 class="intro__title">Hello, i am <span>Leonardo</span></h1>
+<span class="intro__position">Junior Python Developer
+</span>
 <br><br>
-Atualmente, sou estudante do curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas do IFPR</p>&nbsp;
-
+<p>In my portfolio, I have diverse projects ranging from frontend to backend, utilizing technologies like HTML, CSS, Bootstrap, and JavaScript. However, since the beginning of my journey, I have primarily focused on improving my skills in Python, dedicating efforts to frameworks such as Django, Flask, FastAPI, and Selenium. Additionally, I have some projects in data science where I use Jupyter as an IDE along with libraries like Pandas, Numpy, Matplotlib, and Seaborn.
+<br><br>
+Currently, I am a student pursuing a Bachelor's Degree in Systems Analysis and Development at IFPR.
+<br><br>
+My quest for knowledge involves studies in data structures, software architecture, and DevOps practices, with a recent interest in technologies like Docker and Kubernetes.
+<br><br>
+Professionally, I engage in the development of websites, web systems, and process automation scripts. I am seeking opportunities to expand my expertise in challenging projects and make significant contributions. I am available to collaborate with NGOs and dedicate time to social causes. My focus is to constantly seek new challenges and opportunities for professional growth.</p>
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LeonardoBaptista-dev&theme=radical&mode=weekly" />
 
@@ -26,6 +30,9 @@ Atualmente, sou estudante do curso Superior de Tecnologia em Análise e Desenvol
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)&nbsp;
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)&nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -35,20 +42,25 @@ Atualmente, sou estudante do curso Superior de Tecnologia em Análise e Desenvol
 
 #### Studying in this moment:
 
-![Docker](https://img.shields.io/badge/docker-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-4285F4?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 
 #### Databases:
-
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
+
 
 &nbsp;
 &nbsp;
