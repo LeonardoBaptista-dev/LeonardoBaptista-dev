@@ -35,7 +35,7 @@ Atualmente, sou estudante do curso Superior de Tecnologia em Análise e Desenvol
 
 #### Studying in this moment:
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 
 #### Databases:
