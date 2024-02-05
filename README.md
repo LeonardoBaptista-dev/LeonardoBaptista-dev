@@ -74,7 +74,7 @@ Professionally, I engage in the development of websites, web systems, and proces
 <a href="https://www.linkedin.com/in/leonardo-baptista-244653249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="https://medium.com/@LeonardoBaptista-dev" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/20348199/leonardo-baptista" target="_blank"><img src="https://https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"  target="_blank"></a> 
+<a href="https://stackoverflow.com/users/20348199/leonardo-baptista" target="_blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
 
