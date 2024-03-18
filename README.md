@@ -45,7 +45,7 @@ Professionally, I engage in the development of websites, web systems, and proces
 
 ![Docker](https://img.shields.io/badge/docker-4285F4?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
-![.Net](https://img.shields.io/badge/dotnet%20version-net5.0,net6.0-blue)&nbsp;
+![.NET](https://img.shields.io/badge/.net-4285F4?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 
 
 #### Databases:
