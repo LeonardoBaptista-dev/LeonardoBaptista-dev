@@ -6,7 +6,8 @@
 <br><br>
 Currently, I am a student pursuing a Bachelor's Degree in Systems Analysis and Development at IFPR.
 <br><br>
-My quest for knowledge involves studies in data structures, software architecture, and DevOps practices, with a recent interest in technologies like Docker and Kubernetes.
+In my undergraduate studies, I have studied system architecture, the entire base of computational mathematics, logic, algorithms, flowcharts, and the C language.
+Through self-study, I have focused on data structure, software architecture, and DevOps, as well as technologies like Docker and Kubernetes.
 <br><br>
 Professionally, I engage in the development of websites, web systems, and process automation scripts. I am seeking opportunities to expand my expertise in challenging projects and make significant contributions. I am available to collaborate with NGOs and dedicate time to social causes. My focus is to constantly seek new challenges and opportunities for professional growth.</p>
 <div  align="center" style="margin-bottom:100px">
