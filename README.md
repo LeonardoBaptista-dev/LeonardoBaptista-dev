@@ -1,5 +1,5 @@
 <h1 class="intro__title">Hello, i am <span>Leonardo</span></h1>
-<span class="intro__position">Junior Python Developer
+<span class="intro__position">Python Developer
 </span>
 <br><br>
 <p>In my portfolio, I have diverse projects ranging from frontend to backend, utilizing technologies like HTML, CSS, Bootstrap, and JavaScript. However, since the beginning of my journey, I have primarily focused on improving my skills in Python, dedicating efforts to frameworks such as Django, Flask, FastAPI, and Selenium. Additionally, I have some projects in data science where I use Jupyter as an IDE along with libraries like Pandas, Numpy, Matplotlib, and Seaborn.
