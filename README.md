@@ -50,9 +50,6 @@ Ferramenta baseada em LLMs para criação automatizada de documentação comerci
 
 ---
 
-## Acadêmico e Contato
-
-Bacharelando em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Paraná (IFPR).
 
 * **LinkedIn:** [linkedin.com/in/leonardo-baptista-244653249/](https://www.linkedin.com/in/leonardo-baptista-244653249/)
 * **E-mail:** contato.LeonardoBaptista.dev@gmail.com
